@@ -1,10 +1,12 @@
 package ABC;
 
+import java.util.ArrayList;
+
 public class C {
 
-    int x = 10;
-
+    int y = 10;
     public void Design() {
+
 
     }
 }
