@@ -7,5 +7,6 @@ public class C {
     String str = "pankaj";
     public void Design() {
 
+        System.out.println("Rajesh Roy");
     }
 }
