@@ -8,5 +8,7 @@ public class C {
     public void Design() {
 
         System.out.println("Rajesh Roy");
+        System.out.println("Deepak Kanathe");
+        System.out.println("Shivam singh");
     }
 }
