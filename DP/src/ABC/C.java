@@ -15,10 +15,8 @@ public class C {
         System.out.println("raja ram ki jay");
         System.out.println("Shree radha krishna");
         System.out.println("Shivay");
-
-
-
-
+        System.out.println("jai Ganesh");
+        System.out.println("Bappa moriya...");
 
     }
 }
